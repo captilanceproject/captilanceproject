@@ -9,7 +9,7 @@
 We operate in a wide range of industries:
 
 - 🛻 **Logistics & Supply Chain Management**
-- ☕ **Café Chains & Hospitality**
+- ☕ **Cafe Shop**
 - 🛒 **E-commerce Solutions**
 - ✈️ **Travel & Tourism Services**
 - 🏗️ **Stone Crushing & Infrastructure Support**
