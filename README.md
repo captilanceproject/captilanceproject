@@ -25,6 +25,6 @@ To become a trusted leader across diverse industries by combining **domain exper
 ## 📬 Contact & Links
 
 - 🌐 Website: [https://www.captilance.com](https://www.captilance.com) *(placeholder – update as needed)*
-- 📧 Email: [info@captilance.com](mailto:info@captilance.com)
+- 📧 Email: [info@captilance.com](mailto:captilance@gmail.com)
 - 📱 LinkedIn: [linkedin.com/company/captilance](https://linkedin.com/company/captilance) *(if available)*
 
